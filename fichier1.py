@@ -13,3 +13,9 @@ def soustraction(a,b):
 
 def addition (a,b):
 	return(a+b)
+#ajout mult et division
+def multiplication(a,b):
+	return(a*b)
+def division(a,b):
+	return(a/b)
+
